@@ -1,0 +1,13 @@
+
+<user-mapping>
+    <authorize username="user" password="password">
+        <connection name="RDP Connection">
+            <protocol>rdp</protocol>
+            <param name="hostname">123.681.881</param>
+            <param name="port">3389</param>
+            <param name="username">hozoo</param>
+            <param name="password">123456</param>
+            <param name="security">any</param>
+        </connection>
+    </authorize>
+</user-mapping>
